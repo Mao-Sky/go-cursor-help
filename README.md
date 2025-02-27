@@ -447,40 +447,6 @@ Modifying this registry key may affect:
 
 ---
 
-##  Support
-
-<div align="center">
-<b>If you find this helpful, consider buying me a spicy gluten snack (Latiao) as appreciation~ 💁☕️</b>
-<table>
-<tr>
-<td align="center">
-<b>Alipay</b><br>
-<img src="img/alipay_scan_pay.jpg" width="500" alt="Alipay"><br>
-<em>1 Latiao = 1 AI thought cycle</em>
-</td>
-<td align="center">
-<b>ETC</b><br>
-<img src="img/etc.png" width="200" alt="ETC Address"><br>
-ETC: 0xa2745f4CD5d32310AC01694ABDB28bA32D125a6b
-</td>
-<td align="center">
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## ⭐ Project Stats
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yuaotian/go-cursor-help&type=Date)](https://star-history.com/#yuaotian/go-cursor-help&Date)
-
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/ddaa9df9a94b0029ec3fad399e1c1c4e75755477.svg "Repobeats analytics image")
-
-</div>
-
 ## 📄 License
 
 <details>
